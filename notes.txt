@@ -1,2 +1,7 @@
 logo:
   logomakr.com/2FSJQ1
+
+dig +noall +answer pancakefight.com
+
+
+https://nicolas-van.github.io/easy-markdown-to-github-pages/
