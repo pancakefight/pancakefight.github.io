@@ -1,5 +1,11 @@
 logo:
   logomakr.com/2FSJQ1
+my edit of logo:
+  logomakr.com/38c1pX
+
+new one?
+logomakr.com/3YeDjP
+
 
 dig +noall +answer pancakefight.com
 
