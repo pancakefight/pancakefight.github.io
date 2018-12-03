@@ -1,0 +1,9 @@
+---
+layout: default
+title: Michael Troger's Blog
+---
+{% for recipe in site.recipes %}
+  <a href="{{ recipe.url }}">
+    <h2>{{ recipe.title }}</h2>
+  </a>
+{% endfor %}
