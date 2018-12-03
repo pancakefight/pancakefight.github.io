@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Shaun's Baked Fusilli"
+---
 # Shaun's baked fusilli
 
 ## Storytime
