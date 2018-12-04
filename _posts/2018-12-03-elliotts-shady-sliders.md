@@ -1,3 +1,9 @@
+---
+layout: post
+title: Elliott's "Shady" Sliders
+tags: dinner
+---
+
 # Elliott's Shady Sliders
 
 ## Storytime

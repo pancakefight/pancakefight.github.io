@@ -1,7 +1,7 @@
 ---
 title: Tiki Tiki Pizza
 layout: post
-tags: cheese dinner vegan
+tags: cheese dinner
 ---
 
 # Tiki Tiki Pizza
