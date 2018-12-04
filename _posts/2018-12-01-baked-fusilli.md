@@ -8,16 +8,16 @@ title:  "Shaun's Baked Fusilli"
 So this is really just a baked spaghetti recipe I snagged from the internet and adjusted. So it's mine now.
 
 ## Ingredients
-* 1 (16 ounce) package fusilli (or whatever noodle you like)
-* 1 pound spicy (or not) italian sausage
-* 1 white onion, chopped
-* 1 (32 ounce) jar meatless spaghetti sauce
-* 1/2 teaspoon seasoned salt
-* 2 eggs
-* 1/3 cup grated Parmesan cheese
-* 5 tablespoons butter, melted
-* 2 cups small curd cottage cheese, divided
-* 4 cups shredded mozzarella cheese, divided
+- [ ] 1 (16 ounce) package fusilli (or whatever noodle you like)
+- [ ] 1 pound spicy (or not) italian sausage
+- [ ] 1 white onion, chopped
+- [ ] 1 (32 ounce) jar meatless spaghetti sauce
+- [ ] 1/2 teaspoon seasoned salt
+- [ ] 2 eggs
+- [ ] 1/3 cup grated Parmesan cheese
+- [ ] 5 tablespoons butter, melted
+- [ ] 2 cups small curd cottage cheese, divided
+- [ ] 4 cups shredded mozzarella cheese, divided
 
 ## Directions
 1. Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.
