@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Shaun's Baked Fusilli"
+tags: cheese pasta
 ---
 # Shaun's baked fusilli
 
