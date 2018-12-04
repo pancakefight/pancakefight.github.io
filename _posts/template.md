@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: cheese dinner vegan
 title: template
 ---

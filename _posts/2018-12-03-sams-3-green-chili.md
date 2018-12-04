@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sam's No 3 Kickin' Green Chili
 tags: spicy winter
 ---

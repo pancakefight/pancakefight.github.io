@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Elliott's "Shady" Sliders
 tags: dinner
 ---

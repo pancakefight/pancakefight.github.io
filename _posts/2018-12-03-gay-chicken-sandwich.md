@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gay Chicken Sandwich
 tags: chicken sandwich
 ---

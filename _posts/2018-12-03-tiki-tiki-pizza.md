@@ -1,6 +1,5 @@
 ---
 title: Tiki Tiki Pizza
-layout: post
 tags: cheese dinner
 ---
 
