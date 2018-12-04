@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Shaun's Baked Fusilli"
 tags: cheese pasta
 ---
