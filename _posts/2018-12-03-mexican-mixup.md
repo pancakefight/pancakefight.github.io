@@ -1,3 +1,9 @@
+---
+layout: post
+title: Mexican Mix-Up
+tags: cheese spicy mexican
+---
+
 # Mexican Mix-Up
 
 ## Storytime

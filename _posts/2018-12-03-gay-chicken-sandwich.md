@@ -1,7 +1,13 @@
+---
+layout: post
+title: Gay Chicken Sandwich
+tags: chicken sandwich
+---
+
 # Gay Chicken Sandwich
 
 ## Storytime
-A chick-fil-a sandwich with more gay.
+Shaun: I was trying to recreate chick-fil-a's chicken sandwich. These are really good, but need more work to get closer to the original.
 Took from here: https://damndelicious.net/2015/05/16/copycat-chick-fil-a-sandwich/print/
 Try this one next time: https://www.seriouseats.com/recipes/2012/07/homemade-chick-fil-a-sandwiches-recipe.html
 
