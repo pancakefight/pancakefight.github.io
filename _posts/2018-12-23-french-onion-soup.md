@@ -2,6 +2,7 @@
 published: true
 ---
 # French Onion Soup
+Jan Garwood-Joslin
 
 ## Ingredients
 - 5 lbs onions (equals 3 lbs. After peeling & slicing ⅛ in)
