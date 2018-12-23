@@ -15,13 +15,13 @@ Will feed about 2 hungry adults.
 * 1 pound of hamburger
 * 1 can of pork & beans
 * 3/4 cup of ketchup (switch this with Heinz chili sauce for a little more kick)
-* All the taco fixings you want:
-⋅⋅⋅frito corn chips (highly recommended)
-⋅⋅⋅shredded cheese
-⋅⋅⋅lettuce
-⋅⋅⋅tomatoes
-⋅⋅⋅onions
-⋅⋅⋅salsa
+All the taco fixings you want:
+* frito corn chips (highly recommended)
+* shredded cheese
+* lettuce
+* tomatoes
+* onions
+* salsa
 
 ## Directions
 1. Brown the hamburger in a pan.
