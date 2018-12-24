@@ -6,10 +6,10 @@ published: true
 ## Ingredients
 - 3 eggs
 - 2 cups sugar
-Mix and add
+Mix and add:
 - ¾ cups vegetable oil
 - 2 cups grated zucchini
-Mix and add
+Mix and add:
 - 2 ½ cup flour
 - ¼ teaspoon baking powder
 - 1 teaspoon salt
