@@ -1,35 +1,36 @@
 ---
 title: Gay Chicken Sandwich
 tags: chicken sandwich
+published: true
 ---
 
 # Gay Chicken Sandwich
 
 ## Storytime
-Shaun: I was trying to recreate chick-fil-a's chicken sandwich. These are really good, but need more work to get closer to the original.
-Took from here: https://damndelicious.net/2015/05/16/copycat-chick-fil-a-sandwich/print/
-Try this one next time: https://www.seriouseats.com/recipes/2012/07/homemade-chick-fil-a-sandwiches-recipe.html
+Trying to re-create chick-fila's spicy chicken sandwich. Getting pretty close (1/20/2019).
 
 ## Ingredients
-* 4 hamburger buns, split
-* 1 head green leaf lettuce, leaves separated
-* 1 beefsteak tomato, sliced
-* 20 dill pickle slices
-FOR THE CHICKEN
-* 2 boneless, skinless chicken breasts
-* 1 cup dill pickle juice
-* 1 1/2 cups milk, divided
-* 1 cup peanut oil
-* 1 large egg
-* 1/2 cup all-purpose flour
-* 1 tablespoon confectioners’ sugar
-* Kosher salt and freshly ground black pepper, to taste
+- 6-8 cups vegetable oil (peanut oil is better if you can find it)
+- ⅓ cup frank's original red hot pepper sauce
+- ⅔ cup water
+- 1 cup all-purpose flour
+- 2 ½ teaspoons salt
+- 4 teaspoons cayenne pepper
+- 1 teaspoon fresh coarse ground black pepper
+- 1 teaspoon onion powder
+- ½ teaspoon paprika
+- ⅛ teaspoon garlic powder
+- 4 chicken breast fillets
+- 4 hamburger buns
+- mayo, lettuce, pickles, tomatoes, whatever you wanna top them with
+
 
 ## Directions
-1. Place a chicken breast on a cutting board. With your hand flat on top of it, carefully slice the chicken in half horizontally. Trim excess fat as needed.
-2. In a large shallow baking dish, combine chicken, pickle juice and 1/2 cup milk; marinate for at least 30 minutes. Drain well.
-3. Heat peanut oil in a large skillet over medium high heat.
-4. In another large shallow baking dish, whisk together remaining 1 cup milk and egg. Stir in chicken to coat and drain excess milk mixture.
-5. In a gallon size Ziploc bag or large bowl, combine chicken, flour and confectioners’ sugar; season with salt and pepper, to taste.
-6. Working in batches, add chicken to the skillet and cook until evenly golden and crispy, about 4-5 minutes. Transfer to a paper towel-lined plate.
-7. Serve chicken immediately on burger buns with green leaf lettuce, tomato and pickles.
+1. Preheat 6 to 8 cups of oil in a deep fryer to 350 degrees. If you don't have one, use a small shallow pot just large enough to cook 1 chicken breast at a time.
+2. Combine the pepper sauce and water in a small bowl.
+3. Combine the flour, salt, cayenne pepper, black pepper, onion powder, paprika and garlic powder in another shallow bowl.
+4. Pound each of the chicken pieces with a mallet until about 3/8-inch thick. Trim each breast fillet if necessary to help it fit on the bun.
+5. Working with one fillet at a time, coat each piece with the flour, then dredge it in the diluted pepper sauce. Coat the chicken once again in the flour mixture and set it aside until the rest of the chicken is coated.
+6. Fry the chicken fillets for 8 to 12 minutes or until they are light brown and crispy. Remove the chicken to a rack or to paper towels to drain.
+7. As chicken is frying, prepare each sandwich by grilling the face of the hamburger buns on a hot skillet over medium heat.
+8. Put chicken on the buns, hun! Top with what you want.
