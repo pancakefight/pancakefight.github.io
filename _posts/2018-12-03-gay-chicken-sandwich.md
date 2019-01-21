@@ -10,8 +10,8 @@ published: true
 Trying to re-create chick-fila's spicy chicken sandwich. Getting pretty close (1/20/2019).
 
 ## Ingredients
-- 6-8 cups vegetable oil (peanut oil is better if you can find it)
-- ⅓ cup frank's original red hot pepper sauce
+- 1 cup of vegetable oil (peanut oil is better if you can find it)
+- ⅓ cup Frank's original red hot pepper sauce (or HOT Frank's)
 - ⅔ cup water
 - 1 cup all-purpose flour
 - 2 ½ teaspoons salt
@@ -26,11 +26,10 @@ Trying to re-create chick-fila's spicy chicken sandwich. Getting pretty close (1
 
 
 ## Directions
-1. Preheat 6 to 8 cups of oil in a deep fryer to 350 degrees. If you don't have one, use a small shallow pot just large enough to cook 1 chicken breast at a time.
+1. Use a small shallow pot just large enough to cook 1 chicken breast at a time. Fill it with enough oil to cover half of each flatten chicken breast you put in there. So like 1/4 of an inch. Heat medium-high (8 on a 1-10).
 2. Combine the pepper sauce and water in a small bowl.
 3. Combine the flour, salt, cayenne pepper, black pepper, onion powder, paprika and garlic powder in another shallow bowl.
 4. Pound each of the chicken pieces with a mallet until about 3/8-inch thick. Trim each breast fillet if necessary to help it fit on the bun.
 5. Working with one fillet at a time, coat each piece with the flour, then dredge it in the diluted pepper sauce. Coat the chicken once again in the flour mixture and set it aside until the rest of the chicken is coated.
-6. Fry the chicken fillets for 8 to 12 minutes or until they are light brown and crispy. Remove the chicken to a rack or to paper towels to drain.
-7. As chicken is frying, prepare each sandwich by grilling the face of the hamburger buns on a hot skillet over medium heat.
-8. Put chicken on the buns, hun! Top with what you want.
+6. Fry the chicken in the pot, half should be above the oil. 2 minutes each side. Do 3 & 2 if it's a thicker piece. Set on a wire mesh or paper towel. Chicken will be too hot for like 5 minutes.
+7. Put chicken on the buns, hun! Top with what you want.
