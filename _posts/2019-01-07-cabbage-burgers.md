@@ -13,7 +13,7 @@ published: true
 
 ## Instructions
 1. Brown hamburger and onions. Drain.
-2. Add pepper and cabbage. Simmer (a couple of hours - the longer the simmer the more cabbage flavor.)
+2. Add pepper and cabbage. Turn heat down low (0 or 1 on 0-10 scale) simmer a couple of hours (the longer the simmer the more cabbage flavor.)
 3. Mix the hot roll mix.
 4. Roll out dough, cut into squares (use a pizza cutter.)
 5. Place folded half slice of cheese then spoon full of cabbage mixture. Pull dough up and pinch together (pinch all seams.)
