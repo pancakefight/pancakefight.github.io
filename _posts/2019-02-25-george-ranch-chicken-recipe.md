@@ -2,11 +2,10 @@
 published: true
 title: George's Ranch Chicken Dip
 ---
-
 # George's Ranch Chicken Dip
 
 ## Storytime
-You may think it's George's "Ranch Chicken Dip Recipe", but it's actually George's Ranch "Chicken Dip Recipe". George owns a modest 5 acre ranch in west Texas where he and his dog, Zipper, spend their summers perfecting George's Ranch "Chicken Dip Recipe". From farm to table, he and Zipper hope you and yours enjoy eating it just as much as they enjoy making it.
+You may think it's George's "Ranch Chicken Dip", but it's actually George's Ranch "Chicken Dip". George owns a modest 5 acre ranch in west Texas where he and his dog, Zipper, spend their summers perfecting George's Ranch "Chicken Dip". From farm to table, he and Zipper hope you and yours enjoy eating it just as much as they enjoy making it.
 
 ## Ingredients
 - 2 lbs cooked chicken (we just used the bags of pre cooked fajita chicken, diced into small cubes)
