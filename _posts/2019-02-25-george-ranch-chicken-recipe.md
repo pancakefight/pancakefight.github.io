@@ -1,5 +1,6 @@
 ---
 published: true
+title: George's Ranch Chicken Dip Recipe
 ---
 
 # George's Ranch Chicken Dip
