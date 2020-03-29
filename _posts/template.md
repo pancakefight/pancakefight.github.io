@@ -1,6 +1,7 @@
 ---
 tags: cheese dinner vegan
 title: template
+published: true
 ---
 
 # Shaun's Famous Something or rather
