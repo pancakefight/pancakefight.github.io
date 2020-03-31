@@ -8,6 +8,8 @@ published: true
 ## Storytime
 Jennifer e-mailed me this recipe to post on pancakefight. She said there might be typos. There was. For example, instead of "pork green chili" she called it "green pork chili", which is way funnier - so it will now forever be known as "Jennifer's Green Pork Chili".
 
+"A delicious Mexican-inspired green pork chili. When garnished with fresh tomatoes, avocado, sour cream, and tortilla chips this is a hearty meal with a tangy and spicy finish." 
+
 ## Ingredients
 * 4 tablespoons olive oil, divided
 * 1 pound of ground pork(I used a pound of cubed pork shoulder)
@@ -26,8 +28,6 @@ Jennifer e-mailed me this recipe to post on pancakefight. She said there might b
 * 1 quart water
 * 1/2 fresh cilantro, chopped (optional)
 * 1/2 lime, juiced (optional)
-
-"A delicious Mexican-inspired green pork chili. When garnished with fresh tomatoes, avocado, sour cream, and tortilla chips this is a hearty meal with a tangy and spicy finish." 
 
 ## Directions
 1. In a 4 quart pot, heat 2 tablespoons olive oil over medium heat. Add the jalapenos and saute for 1 minute. Stir in the ground pork and cook until evenly browned (or pork shoulder is cooked through). Remove the pork and jalapenos from the pot and set aside. 
