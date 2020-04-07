@@ -6,10 +6,7 @@ published: true
 # Best Damn Biscuits and Gravy
 
 ## Storytime
-Aaron: "Kelly and I were on a B&G kick after having some amazing ones at a restaurant in Denver. This recipe
-uses some unusual ingredients and some improvisation that has developed into one of our all-time
-favorites. You can use either breakfast sausage or hot Italian sausage. Both are delicious and give
-different flavors to the dish. Don’t forget the sage it helps balance and bring everything together!"
+Aaron: "Kelly and I were on a B&G kick after having some amazing ones at a restaurant in Denver. This recipe uses some unusual ingredients and some improvisation that has developed into one of our all-time favorites. You can use either breakfast sausage or hot Italian sausage. Both are delicious and give different flavors to the dish. Don’t forget the sage it helps balance and bring everything together!"
 
 
 ## Ingredients
