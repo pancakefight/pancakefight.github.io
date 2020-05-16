@@ -8,7 +8,9 @@ published: true
 
 ## Storytime
 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.
+
 ^ this is a grammatically correct sentence. "Buffalo" is singular and plural for the animal, it is a place, but it is also a verb meaning "to bully". Broken down, it reads as: *Bison from Buffalo, New York who are intimidated by other bison in their community also happen to intimidate other bison in their community*.
+
 How wild is that? Anyway, here's an easy buffalo chicken recipe...
 
 ## Ingredients
