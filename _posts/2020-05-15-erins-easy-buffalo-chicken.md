@@ -20,7 +20,7 @@ How wild is that? Anyway, here's an easy buffalo chicken recipe...
 * 3 tbl. Butter
 
 ## Directions
-1. Crockpot the chicken, seasoning, and sauce for 3 to 4 hours or until chicken is cooked. 
+1. Crockpot the chicken, seasoning, and sauce (enough to cover the chicken well) for 3 to 4 hours or until chicken is cooked. 
 2. Remove chicken and shred. Add a few tablespoons of butter to crockpot and add chicken back in. Keep warm until butter melts. 
 
 Serve on toasted bread. Could serve with jalepenos, pickles, onions, lettuce, tomatoes, or cheese. 
