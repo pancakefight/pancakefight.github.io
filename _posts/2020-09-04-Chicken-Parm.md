@@ -1,6 +1,6 @@
 ---
 tags: cheese dinner vegan
-title: template
+title: Chicken Parm
 published: true
 ---
 
