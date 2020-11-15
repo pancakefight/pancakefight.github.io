@@ -1,6 +1,6 @@
 ---
 tags: breakfast sweet
-title: template
+title: Monkey Bread
 published: true
 ---
 
