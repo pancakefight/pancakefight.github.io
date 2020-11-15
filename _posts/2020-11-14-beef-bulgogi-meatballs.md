@@ -13,13 +13,13 @@ Janet and Alan did *Hello Fresh* for a few months and this was one of their favo
 * 3-4 lg carrots
 * 2 scallions
 * 1 lbs. gr. beef
-* 12 T bulgogi sauce
-* 2 t. siracha 
+* 12 Tbsp bulgogi sauce
+* 2 tsp siracha 
 * 1 inch ginger
-* 1 ½ c . Jasmine rice
-* ¼ c. panko
-* 3 T. sour cream
-* 1T. sesame seeds
+* 1½ cups Jasmine rice
+* ¼ cups panko
+* 3 Tbsp sour cream
+* 1 Tbsp sesame seeds
 
 ## Directions
 1. 450 one rack top and one middle rack
