@@ -1,7 +1,8 @@
 ---
 published: true
+title: Mama Garwood's Sugar Cookies
 ---
-# Sugar Cookies
+# Mama Garwood's Sugar Cookies
 
 ## Ingredients
 - 4 C flour
