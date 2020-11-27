@@ -10,12 +10,12 @@ published: true
 Elliott once killed a guy THEN robbed the man's mother. Then he went home and made these delicious "shady" sliders.
 
 ## Ingredients
-* 1/2 pound ground beef (will make 6 sliders)
-* 1/4 cup fresh bread crumbs
-* 1.5 [1 1/2] tbsp olive oil
-* 1 tsp of minced garlic
-* 1 egg
-* 1 tsp dried oregano
+* 1 pound ground beef (will make 12 sliders)
+* ½ cup fresh bread crumbs
+* 3 Tbsp olive oil
+* 2 tsp of minced garlic
+* 2 eggs
+* 2 tsp dried oregano
 
 ## Directions
 1. Combine all the ingredients into a bowl using your hands.

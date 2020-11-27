@@ -23,5 +23,5 @@ Tallulah sought out to make the best carmelitas in the world. She traveled to th
 1. Preheat oven to 350 degrees. Grease one 9x9 inch square pan.
 2. Combine the 1 cup flour, baking soda, oats, brown sugar, salt and melted butter. Mix to combine, mixture will be very crumbly. Press half of the mixture into the bottom of the prepared pan.
 3. Bake at 350 degrees for 10 minutes.
-4. Let cool slightly then sprinkle over the crust the chocolate chips. Drizzle the caramel over the chocolate chips. Top with the remaining oatmeal mixture. You will need to break it into small pieces to cover.
-5. Bake at 350 degrees for 15 minutes. Let bars cool before cutting.
+4. Let cool slightly then sprinkle over the crust the chocolate chips. Drizzle the caramel over the chocolate chips. Top with the remaining oatmeal mixture (you may end up with a few spoonfuls to munch on after). You will need to break it into small pieces to cover.
+5. Bake at 350 degrees for 10 minutes. Let bars cool before cutting.
