@@ -11,7 +11,10 @@ published: true
 
 ## Ingredients
 * 1 cup of an ingredient
-* 1/2 teaspon of a spice
+* ½ teaspoon of a spice
+* ⅓ cup of things
+* ⅔ cup water
+* ⅛ teaspoon pepper
 
 ## Directions
 1. Mix all the things together.
